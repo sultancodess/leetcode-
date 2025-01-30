@@ -31,8 +31,6 @@ Then this repository will mostly become a static one.
 
 Constructive criticisms or code reviews of any kind are very much welcome.
 
-If you have any questions about the solutions you can find here, feel free to contact me **abhisheksharma.0517@gmail.com**.
-
 ## Algorithms
 
 * [Bit Manipulation](https://github.com/black-shadows/LeetCode-Topicwise-Solutions#bit-manipulation)
